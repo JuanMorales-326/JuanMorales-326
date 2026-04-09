@@ -25,7 +25,6 @@
 - 🔐 Specialized in **pfSense, VPNs, and network security**
 - 🌐 Experience in enterprise & remote environments
 - 🚀 Currently looking for **Junior SysAdmin | L2 Support | NOC roles**
-- 📄 Resume: *(pon aquí tu link si quieres)*
 
 ---
 
