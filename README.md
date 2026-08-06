@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Manuel Morales</h1>
+<h1 align="center">Hi 👋, I'm Juan Morales</h1>
 
 <h3 align="center">
 IT Manager | Systems Administrator | Infrastructure & Network Engineer
